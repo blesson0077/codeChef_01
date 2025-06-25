@@ -1,13 +1,7 @@
-Programming is a valuable  
-skill that allows individuals  
-to solve problems and  
-create innovative solutions using  
-computers. By learning to  
-code, people can automate  
-tasks, build applications, and  
-contribute to technological advancements.  
-The process of programming  
-encourages logical thinking, creativity,  
-and perseverance, making it  
-an essential skill in  
-today's digital world.
+*
+**
+***
+****
+***
+**
+*
